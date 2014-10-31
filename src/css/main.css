@@ -115,6 +115,10 @@ h5 {
 h6 {
   font-size: 120%;
 }
+
+#sidebox {
+float: right;
+}
 #content {
   width: 898px;
   padding-left: 31px;

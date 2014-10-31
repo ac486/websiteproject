@@ -97,6 +97,11 @@ textarea {
   line-height: 30px;
 
 }
+#sidebox{
+height: 226px;
+width: 366px;
+float: right;
+}
 h1 {
   font-size: 220%;
 }
@@ -116,9 +121,6 @@ h6 {
   font-size: 120%;
 }
 
-#sidebox {
-float: right;
-}
 #content {
   width: 898px;
   padding-left: 31px;

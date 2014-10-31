@@ -93,19 +93,23 @@ textarea {
   width: 960px;
   margin-left: auto;
   margin-right: auto;
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 22px;
+  line-height: 32px;
 
 }
-#branding {
+#bannerbox img {
 height: 87px;
 width: 594px;
 float: left;
 }
-#sidebox img{
+#logobox {
 height: 226px;
 width: 366px;
 float: right;
+}
+#logo {
+height:225px;
+width: 225px;
 }
 h1 {
   font-size: 220%;
@@ -148,11 +152,6 @@ p.first {
 }
 #article_heading h1 {
   margin: 0px;
-}
-#logo {
-  width: 86px;
-  height: 86px;
-
 }
 #menu {
   height: 53px;

@@ -97,7 +97,12 @@ textarea {
   line-height: 30px;
 
 }
-#sidebox{
+#branding {
+height: 87px;
+width: 594px;
+float: left;
+}
+#sidebox img{
 height: 226px;
 width: 366px;
 float: right;
@@ -120,25 +125,23 @@ h5 {
 h6 {
   font-size: 120%;
 }
-
 #content {
-  width: 898px;
-  padding-left: 31px;
-  padding-right: 31px;
+  width: 594px;
   text-align: justify;
-
+float: left;
 }
 #article_heading {
-  height: 86px;
-  line-height: 86px;
+  height: 87px;
+width:593px;
+  line-height: 87px;
+float: left;
 }
 #article_photo img {
-  height: 338px;
-  width: 338px;
+  height: 366px;
+  width: 366px;
   float: right;
-  padding: 9px;
-  margin: 10px;
 }
+
 p.first {
 
   margin: 0px;
@@ -152,8 +155,10 @@ p.first {
 
 }
 #menu {
-  height: 56px;
-  line-height: 56px;
+  height: 53px;
+ width: 594;
+ line-height: 56px;
+float:left;
 }
 #menu ul, li {
    margin: 0px;

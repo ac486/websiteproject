@@ -106,6 +106,7 @@ float: left;
 height: 226px;
 width: 366px;
 float: right;
+background-image: url('../img/graybk.gif');
 }
 #logo {
 height:225px;

@@ -131,7 +131,8 @@ h6 {
   font-size: 120%;
 }
 #content {
-  width: 594px;
+  width: 570px;
+  margin-right:24;
   text-align: justify;
 float: left;
 }
@@ -159,6 +160,10 @@ p.first {
  width: 594;
  line-height: 56px;
 float:left;
+background-color: #b1b1b1;
+}
+#menu a {
+color: black;
 }
 #menu ul, li {
    margin: 0px;
